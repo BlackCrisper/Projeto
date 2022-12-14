@@ -6,7 +6,7 @@ using TCC_2._0.Models;
 
 namespace TCC_2._0.Controllers
 {
-    [Authorize]
+    
     public class ProdutoController : Controller
     {
 
